@@ -1,0 +1,5 @@
+package be.intecBrussel.VoetbalPloeg;
+
+public enum Country {
+    BELGIUM,FRANCE,GERMANY,NORWAY,SWEDEN,DENMARK,NETHERLANDS,SPAIN,ITALY,AUSTRIA,RUSSIA;
+}
